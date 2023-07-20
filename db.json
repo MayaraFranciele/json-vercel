@@ -1,16 +1,34 @@
 {
   "produtos": [
-    { 
-      "id": 1, 
-      "descricao": "Sapato Social New York", 
-      "preco": "199.90",
-      "imagem": "produto.webp"
+    {
+      "id": 1,
+      "descricao": "Sapato Marrom",
+      "preco": "174.90",
+      "imagem": "sapato-marrom.webp"
     },
-    { 
-      "id": 2, 
-      "descricao": "Sapato Social Boston", 
-      "preco": "499.90",
-      "imagem": "sapato.webp"
+    {
+      "id": 2,
+      "descricao": "Cinto Preto",
+      "preco": "65.90",
+      "imagem": "cinto-preto.jpg"
+    },
+    {
+      "id": 3,
+      "descricao": "Carteira Cinza",
+      "preco": "55.90",
+      "imagem": "carteira-cinza.jpg"
+    },
+    {
+      "id": 4,
+      "descricao": "Mochila Verde",
+      "preco": "229.90",
+      "imagem": "mochila-verde.jpg"
+    },
+    {
+      "id": 5,
+      "descricao": "Sapato Azul",
+      "preco": "330.90",
+      "imagem": "sapato-azul.webp"
     }
     
   ]
